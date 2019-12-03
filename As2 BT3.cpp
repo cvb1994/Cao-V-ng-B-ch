@@ -3,6 +3,7 @@
 int main(){
 	int a,b,c;
 	float x1,x2,delta;
+	printf("Phuong trinh bac 2 co dang: ax^2+bx+c=0\n");
 	printf("Nhap so a:");
 	scanf("%d",&a);
 	printf("Nhap so b:");
