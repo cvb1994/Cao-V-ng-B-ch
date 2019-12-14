@@ -27,4 +27,5 @@ int main(){
 		x1= -c/b;
 		printf("Phuong trinh co 1 nghiem: x1=%f",x1);
 	}
+	return 0;
 }
